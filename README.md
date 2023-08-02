@@ -1,5 +1,4 @@
-# patech-project-android
-Anthracnose Disease Control System Android Applications
+# **Anthracnose Disease Control System Android Applications**
 
 > PATECH is an Anthracnose Disease Monitoring and Alerting System for Chili Farmers. Severe cases of Anthracnose disease may lead to a production loss of up to 50%-75% every year. PATECH system gives farmers early alarm when the farm condition is suitable for anthracnose disease to grow so farmers can do an action to prevent the spread of infection. These devices are IoT-based with machine learning for data processing. PATECH is integrated with an android app on farmer’s phones.
 
